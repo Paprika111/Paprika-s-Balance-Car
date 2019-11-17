@@ -1,2 +1,1 @@
-# Paprika-s-Balance-Car
-The first Project Writed By Me
+基于stm32c8t6单片机的平衡车，使用mpu6050作为传感器。
